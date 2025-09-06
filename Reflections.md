@@ -5,37 +5,37 @@ Each day I summarize what I learned, my key takeaways, and how I understood the 
 
 ---
 
-## Day 01 – [Title/Topic]
+## Day 01 – Complex Numbers & Linear Algebra Basics
 📝 Reflection:  
 ...
 
 ---
 
-## Day 02 – [Title/Topic]
+## Day 02 – Probability Theory & Statistics
 📝 Reflection:  
 ...
 
 ---
 
-## Day 03 – [Title/Topic]
+## Day 03 – Quantum vs. Classical Mechanics
 📝 Reflection:  
 ...
 
 ---
 
-## Day 04 – [Title/Topic]
+## Day 04 – Classical Computing & Boolean Algebra
 📝 Reflection:  
 ...
 
 ---
 
-## Day 05 – [Title/Topic]
+## Day 05 – Linear Algebra for Quantum Computing
 📝 Reflection:  
 ...
 
 ---
 
-## Day 06 – [Title/Topic]
+## Day 06 – Dirac Notation & Hilbert Spaces & Expert Session
 📝 Reflection:  
 ...
 
