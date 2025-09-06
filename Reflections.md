@@ -30,7 +30,24 @@ Each day I summarize what I learned, my key takeaways, and how I understood the 
 ---
 
 ## Day 05 – Linear Algebra for Quantum Computing
-📝 Reflection:  
+
+**Topic Details:**  
+Today’s focus was on key linear algebra concepts that form the backbone of quantum computing: **tensor products, inner/outer products, and unitary matrices**.  
+
+- **Tensor Products:** In quantum computing, we often deal with multiple qubits at once. A tensor product is the mathematical way of combining two or more qubits into a larger system. For example, if one qubit can be in state |0⟩ or |1⟩, and another can also be in |0⟩ or |1⟩, then together they form a 4-dimensional space with states like |00⟩, |01⟩, |10⟩, and |11⟩. This idea scales up to many qubits, allowing us to represent complex quantum systems.  
+- **Inner Products:** The inner product (⟨φ|ψ⟩) is a way of measuring how similar two states are. If the result is 1, they are identical; if 0, they are completely different (orthogonal). This is important because it helps define probabilities in quantum mechanics.  
+- **Outer Products:** The outer product (|ψ⟩⟨φ|) produces an operator, not just a number. Outer products are useful for constructing projection operators that “pick out” certain states from a quantum system.  
+- **Unitary Matrices:** Quantum gates are represented by unitary matrices. These matrices have a special property: they preserve the length of vectors, which means they preserve probabilities. This is crucial because in quantum mechanics, the total probability must always equal 1.  
+
+**Reflection:**  
+Learning about tensor products opened my eyes to how quantum systems scale so rapidly — adding just one more qubit doubles the size of the space. It made me appreciate why quantum computers are so powerful, as they can represent an enormous amount of information compared to classical systems.  
+
+The concepts of inner and outer products showed me how linear algebra translates directly into the “language” of quantum probabilities and operations. I found it fascinating that the inner product tells us about overlap and likelihood, while the outer product creates operators that actively shape the system.  
+
+Finally, understanding unitary matrices helped me see why quantum gates are fundamentally different from classical logic gates. They don’t just flip bits but rotate and transform quantum states in a way that always preserves the overall probability.  
+
+Overall, today’s session strengthened my understanding of how **linear algebra is the mathematical foundation of quantum computing**, and why it’s impossible to understand qubits and gates without it.
+
 ...
 
 ---
