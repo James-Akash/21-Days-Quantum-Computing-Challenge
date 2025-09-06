@@ -6,7 +6,7 @@
 - [ ] Day 02 – Probability Theory & Statistics
 - [ ] Day 03 – Quantum vs. Classical Mechanics
 - [ ] Day 04 – Classical Computing & Boolean Algebra
-- [ ] Day 05 – Linear Algebra for Quantum Computing
+- [X] Day 05 – Linear Algebra for Quantum Computing
 - [X] Day 06 – Dirac Notation & Hilbert Spaces & Expert Session
 - [ ] Day 07 – Quantum Mechanics Basics & Expert Session
 - [ ] Day 08 – Qubits & Bloch Sphere
