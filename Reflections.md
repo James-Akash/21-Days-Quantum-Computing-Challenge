@@ -69,12 +69,26 @@ Understanding Hilbert spaces also gave me a deeper appreciation of how qubits ar
 Overall, this session helped me see the **foundation on which qubits, gates, and measurements are built**, and why quantum mechanics needs its own language to truly make sense.
 
 
-## Day 07 – [Title/Topic]
+## Day 07 – Quantum Mechanics Basics
 
-📝 Reflection:  
-...
+**Topic Details:**  
+- **Schrödinger Equation:** This is the cornerstone of quantum mechanics. It’s like Newton’s laws, but instead of predicting exact paths of particles, it describes how a particle’s *wave function* changes over time. The wave function (ψ) holds all the information about the system — such as the probabilities of finding a particle in different places. It shows that quantum systems evolve smoothly and deterministically until a measurement is made.  
 
----
+- **Measurement in Quantum Mechanics:** Measurement in the quantum world is very different from the classical one. Before measurement, a system can exist in a *superposition* of states. Once you measure, the system “collapses” into a definite state, and you only see one outcome. The probability of each outcome is given by the square of the wave function (Born rule). In other words, measurement doesn’t just reveal reality — it *changes* it.  
+
+- **Postulates of Quantum Mechanics:** These are the fundamental rules that all quantum systems follow:  
+  1. Quantum states are represented by vectors in a Hilbert space.  
+  2. Physical observables (like energy, momentum, spin) are represented by Hermitian operators.  
+  3. The time evolution of a closed system is governed by the Schrödinger equation (unitary evolution).  
+  4. Measurement outcomes are probabilistic, with probabilities given by the Born rule.  
+  5. After measurement, the system collapses into the eigenstate corresponding to the observed result.  
+
+**Reflection:**  
+Today’s session gave me a clearer picture of the **fundamental framework of quantum mechanics**. The Schrödinger equation showed me how quantum systems evolve in a smooth and predictable way — but only until we actually measure them. At that point, the probabilistic nature of quantum mechanics takes over, and the wave function collapses into a single outcome.  
+
+The postulates were especially helpful because they act like the “rulebook” of quantum mechanics. They connect the math (Hilbert spaces, operators) with the physical world (observables, measurements). My key insight is that measurement is not a passive act — it’s an *active process* that shapes the system itself. This dual nature of evolution (deterministic vs. probabilistic) is what makes quantum mechanics both strange and powerful, and it’s also what gives quantum computing its unique capabilities.
+
+
 
 ## Day 08 – [Title/Topic]
 📝 Reflection:  
