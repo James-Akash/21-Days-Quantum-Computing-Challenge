@@ -1,6 +1,6 @@
 # QuCode 21-Day Quantum Computing Challenge – Reflections
 
-This file contains my daily learning reflections from the **QuCode 21-Day Quantum Computing Challenge (Sept 1 – Sept 21, 2025).**  
+This file contains my daily learning reflections from the **QuCode 21-Day Quantum Computing Challenge (Sept 1 – Sept 21, 2025).** 
 Each day I summarize what I learned, my key takeaways, and how I understood the concepts.
 
 ---
