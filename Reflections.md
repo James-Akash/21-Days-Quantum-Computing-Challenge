@@ -88,6 +88,14 @@ Today’s session gave me a clearer picture of the **fundamental framework of qu
 
 The postulates were especially helpful because they act like the “rulebook” of quantum mechanics. They connect the math (Hilbert spaces, operators) with the physical world (observables, measurements). My key insight is that measurement is not a passive act — it’s an *active process* that shapes the system itself. This dual nature of evolution (deterministic vs. probabilistic) is what makes quantum mechanics both strange and powerful, and it’s also what gives quantum computing its unique capabilities.
 
+**Expert Session Reflection:**  
+The expert lecture provided a broader **learning path and career perspective** in quantum computing. I learned that building a future in this field requires identifying the right **domain** (like finance, optimization, chemistry, or logistics) because quantum systems are designed for solving complex, exponential problems — not everyday computing tasks.  
+
+The talk also highlighted the **interdisciplinary nature** of the field. Physicists, mathematicians, software engineers, and domain experts must all collaborate, and even if I specialize in one area, I need enough knowledge of the others to work effectively in a team.  
+
+Another key takeaway was the **industry outlook**: we are still in the first generation of quantum computing (2018–2028), but by the 2030s it will likely be applied to real business and industrial use cases. Importantly, quantum computers will not replace classical ones but will complement them — **CPU + QPU** working together.  
+
+This session reminded me to think long-term: building strong foundations now, learning practical tools like Qiskit, and keeping an eye on where industry opportunities are emerging. It motivated me to see this challenge as not just about learning concepts, but as an entry point into the growing quantum ecosystem.
 
 
 ## Day 08 – [Title/Topic]
